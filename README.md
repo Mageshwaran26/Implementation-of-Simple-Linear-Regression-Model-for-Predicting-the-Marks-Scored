@@ -65,8 +65,8 @@ print("RMSE= ",rmse)
 */
 ```
 ## Output:
-
 df.head()
+
 ![Screenshot 2025-03-15 102545](https://github.com/user-attachments/assets/b0ad99e3-a196-4531-8689-e59a0204782b)
 df.tail()
 ![Screenshot 2025-03-15 102600](https://github.com/user-attachments/assets/6c2fb45d-a36e-4346-b356-ba8e30e42086)
