@@ -77,6 +77,8 @@ Array value of X
 
 ![Screenshot 2025-03-15 111148](https://github.com/user-attachments/assets/fc3960d6-5d8a-457f-93cc-a0114cce85c0)
 ![Screenshot 2025-03-15 111158](https://github.com/user-attachments/assets/a37615a3-e507-4718-8bd9-95d4eb02c842)
+Values of MSE,MAE,RMSE
+
 ![image](https://github.com/user-attachments/assets/a2312ccd-32c8-404d-9813-2742a51aa01c)
 Training Set Graph
 ![image](https://github.com/user-attachments/assets/44fe5899-12f7-4878-b1ed-0113d933f069)
