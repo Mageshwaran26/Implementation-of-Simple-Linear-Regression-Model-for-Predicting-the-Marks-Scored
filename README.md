@@ -65,7 +65,7 @@ print("RMSE= ",rmse)
 */
 ```
 ## Output:
-df.head()
+###df.head()
 
 ![Screenshot 2025-03-15 102545](https://github.com/user-attachments/assets/b0ad99e3-a196-4531-8689-e59a0204782b)
 df.tail()
