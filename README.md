@@ -69,8 +69,10 @@ df.head()
 
 ![Screenshot 2025-03-15 102545](https://github.com/user-attachments/assets/b0ad99e3-a196-4531-8689-e59a0204782b)
 df.tail()
+
 ![Screenshot 2025-03-15 102600](https://github.com/user-attachments/assets/6c2fb45d-a36e-4346-b356-ba8e30e42086)
 Array value of X
+
 ![image](https://github.com/user-attachments/assets/af3ccc5a-7bdd-406f-ab57-11f98e3ce636)
 
 ![Screenshot 2025-03-15 111148](https://github.com/user-attachments/assets/fc3960d6-5d8a-457f-93cc-a0114cce85c0)
