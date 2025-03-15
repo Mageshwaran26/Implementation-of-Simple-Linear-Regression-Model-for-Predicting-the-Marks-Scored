@@ -67,7 +67,8 @@ print("RMSE= ",rmse)
 ## Output:
 Head values
 
-![Screenshot 2025-03-15 102545](https://github.com/user-attachments/assets/b0ad99e3-a196-4531-8689-e59a0204782b)
+![image](https://github.com/user-attachments/assets/f5421985-02a0-4fe7-8ca2-cbac0280966d)
+
 
 Tail values
 
