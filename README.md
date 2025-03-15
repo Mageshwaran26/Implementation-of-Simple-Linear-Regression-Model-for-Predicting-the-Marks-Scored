@@ -65,25 +65,29 @@ print("RMSE= ",rmse)
 */
 ```
 ## Output:
-df.head()
+Head values
 
 ![Screenshot 2025-03-15 102545](https://github.com/user-attachments/assets/b0ad99e3-a196-4531-8689-e59a0204782b)
 
-df.tail()
+Tail values
 
 ![Screenshot 2025-03-15 102600](https://github.com/user-attachments/assets/6c2fb45d-a36e-4346-b356-ba8e30e42086)
 
 Array value of X
 
-![image](https://github.com/user-attachments/assets/af3ccc5a-7bdd-406f-ab57-11f98e3ce636)
+![image](https://github.com/user-attachments/assets/6dd27667-9cbd-4796-b308-e7d04cf57745)
 
-Shape of X and Y
+Array values of Y
 
-![Screenshot 2025-03-15 111148](https://github.com/user-attachments/assets/fc3960d6-5d8a-457f-93cc-a0114cce85c0)
+![image](https://github.com/user-attachments/assets/0ff857f7-707d-4b0c-b464-4462a17e0beb)
 
+Predicted Y values are
 
+![image](https://github.com/user-attachments/assets/190862ee-c3e5-4854-8548-02c13dfd41ed)
 
-![Screenshot 2025-03-15 111158](https://github.com/user-attachments/assets/a37615a3-e507-4718-8bd9-95d4eb02c842)
+Actual Y values are
+
+![image](https://github.com/user-attachments/assets/e8a4d887-ed2f-41c7-a9e8-f7c717bc22be)
 
 Training Set Graph
 
